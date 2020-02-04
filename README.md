@@ -1,7 +1,5 @@
 # DSC180A_assignment-2
 
-# Data Ingestion Example
-
 [[DESCRIPTION OF PROJECT]]
 
 ## Usage Instructions
