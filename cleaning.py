@@ -1,3 +1,5 @@
+c = {'col1': func1}
+
 # helper functions for cleaning / merging
 def c_bool(string):
     if (string == 'Y') | (string =='y'):
