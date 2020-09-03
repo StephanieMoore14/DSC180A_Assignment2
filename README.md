@@ -1,4 +1,4 @@
-# DSC180A_assignment-2
+# DSC180A_Assignment2
 
 This assignment consists of:
 
@@ -7,6 +7,8 @@ This assignment consists of:
     features/statistics/target needed for the replication (report).
     
 2.  Development and justification of data cleaning (code).
+
+The Report can be found [here](https://github.com/StephanieMoore14/DSC180A_Assignment2/blob/master/report2.pdf).
 
 * * * * *
 
